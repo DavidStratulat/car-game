@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\40749\\My project (1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\40749\\my project (1)\\assets\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\40749\\My project (1)\\assets\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\40749\\My project (1)\\assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\40749\\my project (1)\\assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,10 +28,11 @@
               "RelativeDocumentMoniker": "Assets\\camera.cs",
               "ToolTip": "C:\\Users\\40749\\My project (1)\\Assets\\camera.cs",
               "RelativeToolTip": "Assets\\camera.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T17:27:37.762Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -41,7 +42,7 @@
               "RelativeDocumentMoniker": "Assets\\controller.cs",
               "ToolTip": "C:\\Users\\40749\\My project (1)\\Assets\\controller.cs",
               "RelativeToolTip": "Assets\\controller.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAALAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowD4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T16:36:43.104Z",
               "EditorCaption": ""
